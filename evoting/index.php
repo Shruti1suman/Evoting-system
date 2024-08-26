@@ -223,8 +223,8 @@ else if($status == "InActive"){
                 <div class="contact-info">
                     <h3>contact information</h3>
                     
-                    <p><b>PHONE NO:</b> +91 9263578272</p>
-                    <p><B>EMAIL:</B> shivangibhadani55@gmail.com</p>
+                    <p><b>PHONE NO:</b> +91 9263621</p>
+                    <p><B>EMAIL:</B> shruti55@gmail.com</p>
                     <p><B>ADDRESS:</B> cusat,kochi</p>
                 </div>
             </div>
