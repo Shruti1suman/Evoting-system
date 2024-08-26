@@ -7,12 +7,12 @@ Admin Panel
 Election Management: Create,and delete elections.  
 Candidate Management: Add and remove candidates for each election.  
 Voter Management: Approve suspend voters request.  
-Election Analytics: View election results, voter turnout, and detailed reports after election.  
+Election Analytics: View election results, voter turnout, and detailed reports after election.    
 Voter Panel  
 Voter Registration: Voters can self-register, subject to admin approval.  
 Secure Login: Voters log in securely after being approved by the admin.  
 Voting: Cast votes in available elections with a simple and intuitive interface.  
-Voter Dashboard: View upcoming elections, and enable voter to vote the candidates of elections.  
+Voter Dashboard: View upcoming elections, and enable voter to vote the candidates of elections.    
 Installation  
 Prerequisites  
 Web server (e.g., Apache)  
