@@ -1,6 +1,6 @@
-Online Voting System
-Overview
-The Online Voting System is a secure and user-friendly platform that allows administrators to manage elections, candidates, and voters efficiently. Voters can register, log in, and cast their votes in a seamless and secure environment. The system supports multiple features to enhance the voting process, ensuring transparency, accessibility, and ease of use.
+Online Voting System  
+Overview  
+The Online Voting System is a secure and user-friendly platform that allows administrators to manage elections, candidates, and voters efficiently. Voters can register, log in, and cast their votes in a seamless and secure environment. The system supports multiple features to enhance the voting process, ensuring transparency, accessibility, and ease of use.   
 
 Features
 Admin Panel
