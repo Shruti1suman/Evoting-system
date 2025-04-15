@@ -21,6 +21,5 @@ The Online Voting System is a secure and user-friendly platform that allows admi
 - MySQL/MariaDB database  
 - Composer (for PHP dependencies)
 
-# Screenshots: 
-![Screenshot (13)](https://github.com/user-attachments/assets/01bd612f-b385-4208-a246-e9cd58fb14ab)
+
 
